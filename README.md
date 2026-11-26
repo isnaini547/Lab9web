@@ -79,44 +79,13 @@ File yang digunakan dalam pembuatan template adalah:
 - `style.css`
 
 File header digunakan untuk bagian atas website dan navigasi, sedangkan footer digunakan untuk bagian bawah website.
-
-**Hasil Tampilan Website:**
-
-![Hasil Template Website](ss/4foto.png)
-
-### E. Membuat Halaman Home
-
 Halaman Home dibuat sebagai halaman utama website. Halaman ini menggunakan header dan footer agar tampilannya sama dengan halaman lainnya.
-
-**Hasil Halaman Home:**
-
-![Halaman Home](screenshots/hasil-home.png)
-
-### F. Membuat Halaman About
-
 Halaman About dibuat untuk menampilkan informasi tentang website. Halaman ini menggunakan template yang sama dengan halaman Home.
-
-**Hasil Halaman About:**
-
-![Halaman About](screenshots/hasil-about.png)
-
-### G. Membuat Halaman Kontak
-
 Halaman Kontak dibuat sebagai halaman informasi kontak. Navigasi digunakan untuk memudahkan perpindahan dari satu halaman ke halaman lainnya.
-
-**Hasil Halaman Kontak:**
-
-![Halaman Kontak](screenshots/hasil-kontak.png)
-
-## 5. Pengujian Akhir
-
 Setelah pembuatan halaman selesai, dilakukan pengujian melalui browser menggunakan localhost.
-
 Pengujian dilakukan dengan membuka halaman Home, About, dan Kontak serta mencoba menu navigasi. Hasilnya, halaman dapat ditampilkan dan navigasi dapat digunakan untuk berpindah halaman. Tampilan setiap halaman juga memiliki header, footer, dan CSS yang konsisten.
 
-**Hasil Pengujian Akhir:**
-
-![Pengujian Akhir](screenshots/pengujian-akhir.png)
+![Pengujian Akhir](screenshots/5foto.png)
 
 ## 6. Kesimpulan
 
