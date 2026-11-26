@@ -86,6 +86,7 @@ Setelah pembuatan halaman selesai, dilakukan pengujian melalui browser menggunak
 Pengujian dilakukan dengan membuka halaman Home, About, dan Kontak serta mencoba menu navigasi. Hasilnya, halaman dapat ditampilkan dan navigasi dapat digunakan untuk berpindah halaman. Tampilan setiap halaman juga memiliki header, footer, dan CSS yang konsisten.
 
 ![Pengujian Akhir](ss/5foto.png)
+![pengujian akhir](ss/6foto.png)
 
 ## 6. Kesimpulan
 
