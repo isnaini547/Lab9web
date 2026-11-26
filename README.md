@@ -85,7 +85,7 @@ Halaman Kontak dibuat sebagai halaman informasi kontak. Navigasi digunakan untuk
 Setelah pembuatan halaman selesai, dilakukan pengujian melalui browser menggunakan localhost.
 Pengujian dilakukan dengan membuka halaman Home, About, dan Kontak serta mencoba menu navigasi. Hasilnya, halaman dapat ditampilkan dan navigasi dapat digunakan untuk berpindah halaman. Tampilan setiap halaman juga memiliki header, footer, dan CSS yang konsisten.
 
-![Pengujian Akhir](screenshots/5foto.png)
+![Pengujian Akhir](ss/5foto.png)
 
 ## 6. Kesimpulan
 
