@@ -4,10 +4,10 @@
 
 ## 1. Identitas Praktikan
 
-- **Nama:** (Isi Nama)
-- **NIM:** (Isi NIM)
+- **Nama:** Isnaini
+- **NIM:** 312510380
 - **Mata Kuliah:** Pemrograman Web
-- **Materi:** PHP Modular
+
 
 ## 2. Tujuan Praktikum
 
